@@ -8,4 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-CHECK IT OUT - https://movieflix-delta-gray.vercel.app/
+CHECK IT OUT -(https://movieflix-git-main-harsh-bhoir-01s-projects.vercel.app/)
